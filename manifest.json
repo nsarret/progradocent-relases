@@ -1,0 +1,19 @@
+{
+  "manifest_version": 1,
+  "version": "1.3.1-beta",
+  "channel": "beta",
+  "download_url": "https://github.com/nsarret/progradocent-relases/releases/download/Beta/PrograDocent_1.3.1_Beta_Setup.exe",
+  "sha256": "b28b7429816068b80372e9a5a15b37cb659b81e5788d742622c1cedd3bcc853d",
+  "size": 46401438,
+  "required": false,
+  "release_notes": [
+    "Educació Infantil I3, I4 i I5 i currículum oficial per eixos.",
+    "Millores en les Situacions d'Aprenentatge, incloses les concrecions curriculars i situacions que poden travessar trimestres.",
+    "Nova Fitxa resum de l'alumne per consultar el seguiment per períodes.",
+    "Banc de Recursos vinculat amb activitats i planificació.",
+    "Sistema d'actualitzacions de PrograDocent.",
+    "Millores en el currículum contextual segons els grups i docències.",
+    "Correccions d'alta d'alumnat i altres ajustos de la beta."
+  ],
+  "published_at": "2026-08-25T21:28:06Z"
+}

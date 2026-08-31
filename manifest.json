@@ -1,18 +1,14 @@
 {
   "manifest_version": 1,
-  "version": "1.4.2-beta",
+  "version": "1.4.3-beta",
   "channel": "beta",
-  "download_url": "https://github.com/nsarret/progradocent-relases/releases/download/Beta/PrograDocent_1.4.2_Beta_Setup.exe",
-  "sha256": "bb34593bda4604323a40538692bf63b48660a023847f3933ddd31cd8ef2cbd86",
-  "size": 46635161,
+  "download_url": "https://github.com/nsarret/progradocent-relases/releases/download/Beta/PrograDocent_1.4.3_Beta_Setup.exe",
+  "sha256": "1075366dc513e771133d774b2bdc38c744d30be16f14182c583ca35756ff9d14",
+  "size": 46613951,
   "required": false,
   "release_notes": [
-    "El meu currículum renovat, amb concrecions i criteris propis.",
-    "Quadern amb vinculació curricular opcional.",
-    "Instruments i rúbriques reutilitzables, independents de les Situacions d'Aprenentatge.",
-    "Sis vectors curriculars a les Situacions d'Aprenentatge d'educació bàsica.",
-    "Accés segur a la beta amb un codi personal d'activació.",
-    "Millores visuals i historial de versions des de «Quant a»."
+    "Festius i períodes de vacances: ja es poden marcar des de Configuració, i el Planificador no hi deixa programar cap sessió.",
+    "Grups i alumnat: etiquetes de nivell més compactes als grups multinivell."
   ],
-  "published_at": "2026-08-29T22:25:28Z"
+  "published_at": "2026-08-31T07:39:49Z"
 }

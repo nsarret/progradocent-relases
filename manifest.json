@@ -1,15 +1,15 @@
 {
   "manifest_version": 1,
-  "version": "1.4.3-beta.3",
+  "version": "1.4.3-beta.4",
   "channel": "beta",
   "download_url": "https://github.com/nsarret/progradocent-relases/releases/download/Beta/PrograDocent_1.4.3_Beta_Setup.exe",
-  "sha256": "dd01db2534ce17ad27f8dec83ec04269f619fec741e5e9511cb45d96d16ea962",
-  "size": 46655945,
+  "sha256": "805e99ec86d28b9f5bfe70e961155465d2b09541ac7b63e6a431272bbc88eb79",
+  "size": 46670113,
   "required": false,
   "release_notes": [
-    "Correcció (intent 2): el text dels botons de Festius i els camps de setmanes de Calendari escolar es veien malament només a l'aplicació instal·lada — era un problema d'escalat de pantalla (DPI), no dels botons en si.",
+    "Correcció definitiva: els botons de Festius i les caselles de setmanes de Calendari escolar es veien malament perquè aquella pestanya no permetia fer scroll — amb la finestra a la mida mínima, es comprimien per sota del que necessitaven per mostrar-se bé.",
     "Mode Aula: quan encara no hi ha cap activitat prevista, ja es pot vincular l'observació a una de les activitats del dia.",
     "Treu el text «Decret 175/2022» del peu del menú lateral."
   ],
-  "published_at": "2026-09-02T09:08:50Z"
+  "published_at": "2026-09-02T12:46:59Z"
 }

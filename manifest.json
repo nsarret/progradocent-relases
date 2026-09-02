@@ -1,20 +1,15 @@
 {
   "manifest_version": 1,
-  "version": "1.4.3-beta",
+  "version": "1.4.3-beta.2",
   "channel": "beta",
   "download_url": "https://github.com/nsarret/progradocent-relases/releases/download/Beta/PrograDocent_1.4.3_Beta_Setup.exe",
-  "sha256": "1e45618e7c0c28cb28e8326b2549ef5f2dde731d09f84c0c7a65586eac7a6e22",
-  "size": 46656457,
+  "sha256": "6154838034187ed87d60fd81e54a31c9862333017fd0a604b8ca35a603fbad62",
+  "size": 46650354,
   "required": false,
   "release_notes": [
-    "Competències transversals (CC, CD, CE, CPSAA) integrades al flux d'avaluació, soles o combinades amb criteris d'àrea.",
-    "Concreció de criteris transversals per a la teva aula.",
-    "Transversals a les activitats, les evidències, el Quadern i les rúbriques o altres instruments.",
-    "Exportació global de la planificació d'un grup a PDF.",
-    "Exportació de l'assistència d'un grup a PDF i a CSV.",
-    "El meu currículum, simplificat.",
-    "Millores de navegació: «Avaluar» ara és «Seguiment i avaluació», i «Llibreta» és «Diari docent».",
-    "Millores del calendari i els festius."
+    "Correcció: els botons «Afegir»/«Eliminar» de Festius i els camps de setmanes de Calendari escolar es veien malament.",
+    "Mode Aula: quan encara no hi ha cap activitat prevista, ja es pot vincular l'observació a una de les activitats del dia.",
+    "Treu el text «Decret 175/2022» del peu del menú lateral."
   ],
-  "published_at": "2026-09-01T10:19:50Z"
+  "published_at": "2026-09-02T06:11:35Z"
 }

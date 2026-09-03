@@ -3,13 +3,16 @@
   "version": "1.4.4-beta",
   "channel": "beta",
   "download_url": "https://github.com/nsarret/progradocent-relases/releases/download/Beta/PrograDocent_1.4.4_Beta_Setup.exe",
-  "sha256": "c8b34e3214b6baec87e7de6052399b1feeeb8d6949c9cb999fba7ee062e47d23",
-  "size": 46674678,
+  "sha256": "329e604d59034988821ddcf4eda26bd5ef80d1617975e3a84b6fa09c17030c8b",
+  "size": 46685553,
   "required": false,
   "release_notes": [
-    "Correcció definitiva: totes les pestanyes de Configuració ja permeten fer scroll (abans només «Docent»), i «Docent» ja no desborda horitzontalment.",
-    "Mode Aula: quan encara no hi ha cap activitat prevista, ja es pot vincular l'observació a una de les activitats del dia.",
-    "Treu el text «Decret 175/2022» del peu del menú lateral."
+    "Observacions, més directa: registra i consulta observacions, amb el grup actual preseleccionat. «Seguiment i avaluació» passa a dir-se «Seguiment».",
+    "Suport ampliat als grups mixtos d'Educació Infantil i Primària, a tot el flux (Currículum, El meu currículum, Quadern, Observació, Seqüència, Situacions d'Aprenentatge).",
+    "El meu currículum: ja pots eliminar criteris i sabers propis, amb protecció si hi ha dades d'avaluació que en depenen.",
+    "Nou tipus d'hora a l'horari, «Exclusiva», vinculable a tasques del Diari docent o creable directament des del Planificador.",
+    "Visita inicial renovada, amb parades més curtes i directes que et porten al lloc correcte.",
+    "Petites millores: sabers agrupats per cicle, Configuració i Horari correctes en sortir de la mostra, targetes de «Tipus de docent» més llegibles, i historial de versions des de «Quant a»."
   ],
-  "published_at": "2026-09-02T21:00:43Z"
+  "published_at": "2026-09-03T08:52:52Z"
 }

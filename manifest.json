@@ -1,18 +1,17 @@
 {
   "manifest_version": 1,
-  "version": "1.4.5-beta",
+  "version": "2.0.0-beta",
   "channel": "beta",
-  "download_url": "https://github.com/nsarret/progradocent-relases/releases/download/Beta/PrograDocent_1.4.5_Beta_Setup.exe",
-  "sha256": "a4f273ebbb0f722e06057050fe7d40338f6914baf0334f28004490e07179e98d",
-  "size": 46743411,
+  "download_url": "https://github.com/nsarret/progradocent-relases/releases/download/Beta/PrograDocent_2.0.0_Beta_Setup.exe",
+  "sha256": "812b7e3abebda7dc05e072ebd2956ad06bb3bc32126bb94217e18f0c14ba21bc",
+  "size": 47995399,
   "required": false,
   "release_notes": [
-    "Planifica les sessions amb més detall i flexibilitat: una sessió és una seqüència ordenada d'activitats, cada una amb durada prevista i explicació.",
-    "Combina activitats pròpies i activitats d'una situació d'aprenentatge; en una activitat de situació pots dir com la faràs avui sense modificar la situació.",
-    "El Planificador calcula el temps previst respecte del disponible i t'avisa si en sobra o si et passes, sense impedir-te desar.",
-    "Vincula sabers i criteris a cada activitat sense convertir-la en avaluativa; quan s'avalua, tries explícitament quins criteris avaluaràs.",
-    "Adaptacions o suports per activitat, per a tot el grup o per a alumnes concrets.",
-    "El meu currículum: consulta i edita els criteris que treballa cada saber; el Planificador els reutilitza com a suggeriments."
+    "Nou editor de Situacions d'Aprenentatge, més clar i flexible.",
+    "Planificador renovat per organitzar les sessions reals d'aula.",
+    "Currículum i avaluació més integrats, amb criteris, sabers, evidències i instruments.",
+    "Nova experiència visual, i millores a El meu currículum, les rúbriques i el Mode Mostra.",
+    "Si venies d'una versió anterior que no et demanava codi, la 2.0 et demanarà un codi d'invitació per autoritzar aquest dispositiu. Si no en tens, escriu a nsarret@xtec.cat."
   ],
-  "published_at": "2026-09-05T20:18:16Z"
+  "published_at": "2026-09-14T17:56:48Z"
 }

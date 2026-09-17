@@ -1,17 +1,14 @@
 {
   "manifest_version": 1,
-  "version": "2.0.0-beta",
+  "version": "2.0.1-beta",
   "channel": "beta",
-  "download_url": "https://github.com/nsarret/progradocent-relases/releases/download/Beta/PrograDocent_2.0.0_Beta_Setup.exe",
-  "sha256": "812b7e3abebda7dc05e072ebd2956ad06bb3bc32126bb94217e18f0c14ba21bc",
-  "size": 47995399,
+  "download_url": "https://github.com/nsarret/progradocent-relases/releases/download/Beta/PrograDocent_2.0.1_Beta_Setup.exe",
+  "sha256": "cd1e5ac2dcfc30333c789978090ef94bfa6fb1c51dd56b6d97d42aab9e746f79",
+  "size": 48043303,
   "required": false,
   "release_notes": [
-    "Nou editor de Situacions d'Aprenentatge, més clar i flexible.",
-    "Planificador renovat per organitzar les sessions reals d'aula.",
-    "Currículum i avaluació més integrats, amb criteris, sabers, evidències i instruments.",
-    "Nova experiència visual, i millores a El meu currículum, les rúbriques i el Mode Mostra.",
-    "Si venies d'una versió anterior que no et demanava codi, la 2.0 et demanarà un codi d'invitació per autoritzar aquest dispositiu. Si no en tens, escriu a nsarret@xtec.cat."
+    "Correcció d'un problema de connexió segura que podia impedir descarregar actualitzacions en alguns equips Windows.",
+    "Si el teu equip ja pateix aquest problema, pot caldre instal·lar aquesta versió manualment un cop."
   ],
-  "published_at": "2026-09-14T17:56:48Z"
+  "published_at": "2026-09-17T08:39:49Z"
 }

@@ -1,14 +1,13 @@
 {
   "manifest_version": 1,
-  "version": "2.0.1-beta",
+  "version": "2.1.0-beta",
   "channel": "beta",
-  "download_url": "https://github.com/nsarret/progradocent-relases/releases/download/Beta/PrograDocent_2.0.1_Beta_Setup.exe",
-  "sha256": "cd1e5ac2dcfc30333c789978090ef94bfa6fb1c51dd56b6d97d42aab9e746f79",
-  "size": 48043303,
+  "download_url": "https://github.com/nsarret/progradocent-relases/releases/download/Beta/PrograDocent_2.1.0_Beta_Setup.exe",
+  "sha256": "94c8c3beff20f1e66f2a094fd8440074858a121a05a1832e7cb7fe2222afa030",
+  "size": 55420298,
   "required": false,
   "release_notes": [
-    "Correcció d'un problema de connexió segura que podia impedir descarregar actualitzacions en alguns equips Windows.",
-    "Si el teu equip ja pateix aquest problema, pot caldre instal·lar aquesta versió manualment un cop."
+    "Nova classe de mostra, recorregut guiat i Ajuda actualitzada. Millores en la programació i importació de sessions, el Quadern, la Vista de grup i el treball amb situacions d'aprenentatge."
   ],
-  "published_at": "2026-09-17T08:39:49Z"
+  "published_at": "2026-10-05T21:35:45Z"
 }
